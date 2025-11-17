@@ -12,8 +12,8 @@ robot_size = 20
 theta = 90   # Robot’s heading angle
 
 # sensor angles (independent from robot angle)
-sensor1_angle = 0     # rotates clockwise
-sensor2_angle = 0     # rotates counter-clockwise
+sensor1_angle = 90     # rotates clockwise
+sensor2_angle = 90    # rotates counter-clockwise
 sensor_rotate_speed = 5  # degrees per frame
 
 speed = 5
